@@ -39,9 +39,9 @@
 
 ---
 
-### 📡 Discord Durumum
+### 📡 Discord Sunucum
 
-<a href="https://discord.com/users/1217397602107265076"><img src="https://lanyard.cnrad.dev/api/1217397602107265076" /></a>
+<a href="https://discord.gg/ExP79F4ZfS"><img src="[https://lanyard.cnrad.dev/api/1217397602107265076](https://sdmntpritalynorth.oaiusercontent.com/files/00000000-96d8-6246-bc13-7f684de146cf/raw?se=2025-08-26T09%3A36%3A19Z&sp=r&sv=2024-08-04&sr=b&scid=85c578f4-94af-5ade-88c7-a832c589c879&skoid=6658dbdd-f305-4d30-8f6b-d62218202cb9&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-26T03%3A45%3A17Z&ske=2025-08-27T03%3A45%3A17Z&sks=b&skv=2024-08-04&sig=WB825csXtivMOv7W9eK7h1S%2BK/ZvD6hoNXt2Jki0E68%3D)" /></a>
 
 ---
 
