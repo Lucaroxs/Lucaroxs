@@ -37,11 +37,9 @@
 
 [![Discord Widget](https://dsc-readme.tsuni.dev/api/user/1217397602107265076)](https://discord.com/users/1217397602107265076)
 
+<a href="https://discord.gg/ExP79F4ZfS"><img src="https://i.ibb.co/YBRk5Zs0/Chat-GPT-Image-25-A-u-2025-23-22-51.png" width="200"/></a>
+
 ---
-
-### 📡 Discord Sunucum
-
-<a href="https://discord.gg/ExP79F4ZfS"><img src="https://i.ibb.co/YBRk5Zs0/Chat-GPT-Image-25-A-u-2025-23-22-51.png" /></a>
 
 ---
 
