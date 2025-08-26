@@ -43,6 +43,6 @@
 
 ---
 
-<img width="200px" src="./assets/ChatGPT Image 25 Ağu 2025 23_22_51.png" align="right"/>
+<img width="200px" src="./blob/main/assets/ChatGPT Image 25 Ağu 2025 23_22_51.png" align="right"/>
 <img alt="lucarox'un GitHub İstatistikleri" src="https://github-readme-stats.vercel.app/api?username=lucarox&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&v=1" />
 <img alt="lucarox'un En Çok Kullandığı Diller" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucarox&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&v=1" />
