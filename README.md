@@ -35,14 +35,13 @@
 
 ### 🔗 Sosyal Bağlantılar
 
-[![GitHub](https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucarox)
 [![Discord Widget](https://dsc-readme.tsuni.dev/api/user/1217397602107265076)](https://discord.com/users/1217397602107265076)
 
 ---
 
 ### 📡 Discord Durumum
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1217397602107265076?theme=dark&bg=0d1117&borderRadius=20px&idleMessage=Kod%20yazıyor...)](https://discord.com/users/1217397602107265076)
+<a href="https://discord.com/users/1217397602107265076"><img src="https://lanyard.cnrad.dev/api/1217397602107265076" /></a>
 
 ---
 
