@@ -36,10 +36,9 @@
 ### 🔗 Social & Widgets
 
 [![GitHub](https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucarox)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/your_discord_id)
-[![E-Mail](https://img.shields.io/badge/E--Mail-gray?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:yourmail@duck.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1217397602107265076)
 
-[![Discord Widget](https://dsc-readme.tsuni.dev/api/user/your_discord_id)](https://discord.com/users/your_discord_id)
+[![Discord Widget](https://dsc-readme.tsuni.dev/api/user/1217397602107265076)](https://discord.com/users/1217397602107265076)
 
 ---
 
