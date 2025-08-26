@@ -36,7 +36,7 @@
 ### 🔗 Sosyal Bağlantılar
 
 [![GitHub](https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucarox)
-[![Discord](https://img.shields.io/badge/Discord-Lucarox-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1217397602107265076)
+[![Discord Widget](https://dsc-readme.tsuni.dev/api/user/1379125777710190637)](https://discord.com/users/1217397602107265076)
 
 ---
 
