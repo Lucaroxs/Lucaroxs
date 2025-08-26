@@ -1,25 +1,25 @@
-<h1 align="center">🦊 Hey, I'm Lucarox</h1>
+<h1 align="center">🦊 Selam, Ben Lucarox</h1>
 <p align="center">
-  Welcome to my coding corner.<br><br>
-  🎮 I enjoy building small tools, exploring new tech, and experimenting with ideas.<br>
-  🐧 <b>Linux</b> + <b>Hyprland</b> enjoyer with a love for clean, minimal setups.
+  Kod köşeme hoş geldin.<br><br>
+  🎮 Küçük araçlar geliştirmeyi, yeni teknolojiler denemeyi ve fikirlerle oynamayı seviyorum.<br>
+  🐧 <b>Linux</b> + <b>Hyprland</b> kullanıcısıyım, sade ve minimal düzenlere bayılırım.
 </p>
 
 <div>
 <img src="./assets/fyodor-dostoevsky-bsd.gif" width="155" align="right">
 
-### 🦊 About Me
+### 🦊 Hakkımda
 
-- 💻 Spend most of my time coding & creating terminal tools  
-- 🧠 Interested in philosophy, tech culture, and programming languages  
-- 🐧 Linux + Hyprland user, keeping things minimal  
-- 🎮 Mostly code in Go, Rust, and C++ but also enjoy Python, JS & Ruby  
+- 💻 Çoğu zamanımı kod yazarak ve terminal araçlarıyla uğraşarak geçiriyorum  
+- 🧠 Yazılım, yazılım kültürü ve programlama dilleri ilgimi çekiyor  
+- 🐧 Linux + Hyprland kullanıyorum, her şey minimal olmalı  
+- 🎮 Genelde Go, Rust ve C++ ile yazıyorum; ayrıca Python, JS ve Ruby de kullanıyorum  
 
 </div>
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Kullandığım Teknolojiler
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
@@ -33,15 +33,19 @@
 
 ---
 
-### 🔗 Social & Widgets
+### 🔗 Sosyal Bağlantılar
 
 [![GitHub](https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucarox)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1217397602107265076)
+[![Discord](https://img.shields.io/badge/Discord-Lucarox-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1217397602107265076)
 
-[![Discord Widget](https://dsc-readme.tsuni.dev/api/user/1217397602107265076)](https://discord.com/users/1217397602107265076)
+---
+
+### 📡 Discord Durumum
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1217397602107265076?theme=dark&bg=0d1117&borderRadius=20px&idleMessage=Kod%20yazıyor...)](https://discord.com/users/1217397602107265076)
 
 ---
 
 <img width="200px" src="./assets/waguri.png" align="right"/>
-<img alt="lucarox's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lucarox&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&v=1" />
-<img alt="lucarox's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucarox&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&v=1" />
+<img alt="lucarox'un GitHub İstatistikleri" src="https://github-readme-stats.vercel.app/api?username=lucarox&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&v=1" />
+<img alt="lucarox'un En Çok Kullandığı Diller" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucarox&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&v=1" />
