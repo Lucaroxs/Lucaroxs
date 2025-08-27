@@ -12,7 +12,7 @@
 
 - 💻 Çoğu zamanımı kod yazarak ve terminal araçlarıyla uğraşarak geçiriyorum  
 - 🧠 Yazılım, yazılım kültürü ve programlama dilleri ilgimi çekiyor  
-- 🐧 Linux + Hyprland kullanıyorum, her şey minimal olmalı  
+- 🐧 Linux + Hyprland kullanıyorum
 - 🎮 Genelde Go, Rust ve C++ ile yazıyorum; ayrıca Python, JS ve Ruby de kullanıyorum  
 
 </div>
